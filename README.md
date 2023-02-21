@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chaoyu530
 - 👀 I’m interested in python and C++
-- 🌱 I’m currently learning Ryerson University
+- 🌱 I’m currently learning Western University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
